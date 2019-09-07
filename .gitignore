@@ -1,0 +1,16 @@
+# Created by .ignore support plugin (hsz.mobi)
+### jiangqw's template template
+# Created by .ignore support plugin (hsz.mobi)
+### Example user template template
+### Example user template
+
+# IntelliJ project files
+.idea
+*.iml
+out
+gen
+/dependency-reduced-pom.xml
+/log4j_error/
+/log4j/
+!/customize-analyzer/
+!/.mvn/
